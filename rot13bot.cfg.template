@@ -1,0 +1,10 @@
+# rename this file to rot13bot.cfg and fill in the appropriate values below for
+# your app.
+# keep these values out of version control.
+
+[auth]
+api_key = fill_in
+api_secret = fill_in
+token = fill_in
+token_secret = fill_in
+

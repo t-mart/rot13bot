@@ -1,0 +1,7 @@
+rot13bot.cfg
+.cache
+.idea
+build
+dist
+*.egg-info
+*.pyc
